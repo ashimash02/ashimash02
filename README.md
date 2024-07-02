@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashima Sharma</h1>
 <h3 align="center">A passionate web developer and ML enthusiast</h3>
+![image_processing20210301-3601-w1fbuc](https://github.com/ashimash02/ashimash02/assets/91709148/5a009c10-fed1-45a3-956f-3ac669178016)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashimash02" alt="ashimash02" /></a> </p>
 
